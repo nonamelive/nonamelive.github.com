@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kai's Blog]]></title>
-  <link href="http://nonamelive.github.com/atom.xml" rel="self"/>
-  <link href="http://nonamelive.github.com/"/>
-  <updated>2012-09-21T16:56:11-07:00</updated>
-  <id>http://nonamelive.github.com/</id>
+  <link href="http://code.nonamelive.com/atom.xml" rel="self"/>
+  <link href="http://code.nonamelive.com/"/>
+  <updated>2012-09-21T17:03:45-07:00</updated>
+  <id>http://code.nonamelive.com/</id>
   <author>
     <name><![CDATA[Kai]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Octopress Entry]]></title>
-    <link href="http://nonamelive.github.com/blog/2012/09/20/first-octopress-entry/"/>
+    <link href="http://code.nonamelive.com/blog/2012/09/20/first-octopress-entry/"/>
     <updated>2012-09-20T20:30:00-07:00</updated>
-    <id>http://nonamelive.github.com/blog/2012/09/20/first-octopress-entry</id>
+    <id>http://code.nonamelive.com/blog/2012/09/20/first-octopress-entry</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
